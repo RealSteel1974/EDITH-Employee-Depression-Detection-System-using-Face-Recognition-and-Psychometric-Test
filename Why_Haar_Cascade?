@@ -1,0 +1,15 @@
+Why Haar Cascade is Still Used?
+Despite being old, Haar Cascade is still used in some scenarios because of the following advantages:
+
+Lightweight:
+It does not require GPUs or heavy computation.
+Suitable for low-resource environments, such as mobile devices or edge systems
+
+Speed:
+Works well for basic, real-time applications where accuracy is not critical.
+
+Pre-trained Models:
+OpenCV provides readily available pre-trained XML files for common objects (e.g., faces, eyes, smiles).
+
+Simplicity:
+Easy to implement and deploy for quick prototyping.
